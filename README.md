@@ -49,3 +49,26 @@
 <img width="809" alt="Screen Shot 2022-06-13 at 3 56 22 PM" src="https://user-images.githubusercontent.com/98245501/173301996-2d7403e0-13ea-4cdd-b15c-62cbdf9da63e.png">
 
 # _Trial 3_
+
+
+1.Model
+
+**MODEL 3: 7 Layers with 4 Convolution layers**
+<img width="732" alt="Screen Shot 2022-06-13 at 5 24 19 PM" src="https://user-images.githubusercontent.com/98245501/173312912-7b62bfb2-4a22-4580-871a-81624d9d160c.png">
+
+2. Training with Training loss
+
+**Training step**
+
+**Training for 5 epochs**
+<img width="807" alt="Screen Shot 2022-06-13 at 5 24 39 PM" src="https://user-images.githubusercontent.com/98245501/173312975-902e0899-37b7-42d5-bd18-dae4d92533af.png">
+
+3. Test Accuracy
+**Perform Test with Test data**
+<img width="802" alt="Screen Shot 2022-06-13 at 5 24 51 PM" src="https://user-images.githubusercontent.com/98245501/173313035-e6ae0364-2fd8-409d-ae2f-53e678f7beea.png">
+
+4. Images and corresponding probability that predicted Right
+<img width="301" alt="Screen Shot 2022-06-13 at 5 25 00 PM" src="https://user-images.githubusercontent.com/98245501/173313260-5b8a11d8-5755-47f7-ad14-73e4877dd3b4.png">
+
+5. Images and corresponding probability that predicted Wrong
+<img width="801" alt="Screen Shot 2022-06-13 at 5 25 22 PM" src="https://user-images.githubusercontent.com/98245501/173313320-3dd46c04-d2a5-4b80-a077-cfc97296f2a0.png">
