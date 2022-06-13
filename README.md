@@ -15,6 +15,7 @@
 <img width="805" alt="Screen Shot 2022-06-13 at 2 35 15 PM" src="https://user-images.githubusercontent.com/98245501/173286976-78896096-8398-4ef1-bde6-7450149eda8f.png">
 
 3. Test Accuracy
+
 **Perform Test with Test data**
 <img width="805" alt="Screen Shot 2022-06-13 at 2 35 25 PM" src="https://user-images.githubusercontent.com/98245501/173287020-ae508f11-96cd-4031-a3ed-950eccd5dde1.png">
 
@@ -39,6 +40,7 @@
 <img width="807" alt="Screen Shot 2022-06-13 at 3 55 50 PM" src="https://user-images.githubusercontent.com/98245501/173300064-cb045935-10e3-4320-b456-e7873a009912.png">
 
 3. Test Accuracy
+
 **Perform Test with Test data**
 <img width="812" alt="Screen Shot 2022-06-13 at 3 55 58 PM" src="https://user-images.githubusercontent.com/98245501/173301801-ae9e3c66-9e63-445c-844d-3c6d9d87fc25.png">
 
@@ -64,6 +66,7 @@
 <img width="807" alt="Screen Shot 2022-06-13 at 5 24 39 PM" src="https://user-images.githubusercontent.com/98245501/173312975-902e0899-37b7-42d5-bd18-dae4d92533af.png">
 
 3. Test Accuracy
+
 **Perform Test with Test data**
 <img width="802" alt="Screen Shot 2022-06-13 at 5 24 51 PM" src="https://user-images.githubusercontent.com/98245501/173313035-e6ae0364-2fd8-409d-ae2f-53e678f7beea.png">
 
